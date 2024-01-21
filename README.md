@@ -1,6 +1,6 @@
 # Exercícios em Python - Curso Python 40 horas
 
-Este repositório contém uma coleção de exercícios em Python aprendidos durante o curso XYZ. Cada pasta dentro deste repositório representa um conjunto de exercícios relacionados a um tópico específico do curso.
+Este repositório contém uma coleção de exercícios em Python aprendidos durante o curso de 40 horas. Cada pasta dentro deste repositório representa um conjunto de exercícios relacionados a um tópico específico do curso para aprendizado.
 
 ## 📁 Estrutura do Repositório
 
