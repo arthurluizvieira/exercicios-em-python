@@ -1,0 +1,15 @@
+from random import shuffle
+n1 = input('Digite o nome do primeiro: ')
+n2 = input('Digite o nome do segundo jogador: ')
+n3 = input('Digite o nome do terceiro jogador: ')
+n4 = input('Digite o nome do quarto jogador: ')
+n5 = input('Digite o nome do quinto jogador: ')
+n6 = input('Digite o nome do sexto jogador: ')
+n7 = input('Digite o nome do sétimo jogador: ')
+n8 = input('Digite o nome do oitavo jogador: ')
+n9 = input('Digite o nome do nono jogador: ')
+n10 = input('Digite o nome do décimo jogador: ')
+n11 = input('Digite o nome do décimo primeiro jogador: ')
+lista = [n1, n2 , n3 , n4, n5, n6, n7, n8, n9, n10, n11]
+ordem = shuffle(lista)
+print('A ordem dos jogadores sem jogar será de {}!!'.format(lista))
