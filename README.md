@@ -1,4 +1,4 @@
-# Exercícios em Python - Curso XYZ
+# Exercícios em Python - Curso Python 40 horas
 
 Este repositório contém uma coleção de exercícios em Python aprendidos durante o curso XYZ. Cada pasta dentro deste repositório representa um conjunto de exercícios relacionados a um tópico específico do curso.
 
@@ -17,3 +17,12 @@ Sinta-se à vontade para explorar cada pasta e encontrar exercícios específico
 
    ```bash
    git clone https://github.com/seu-usuario/exercicios-python-curso.git
+
+   
+🤝 Contribuições
+Contribuições são bem-vindas! Se você quiser adicionar seus próprios exercícios, corrigir bugs ou melhorar a documentação, fique à vontade para abrir uma issue ou enviar um pull request.
+
+
+Feito com 🖤 por Arthur Luiz.
+
+
